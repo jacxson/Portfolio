@@ -2,6 +2,7 @@
 A Selection of Data Science and Data Engineering Projects
 
 # About
+![](/images/profile_image.png)
 
 # Projects
 
