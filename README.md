@@ -1,5 +1,5 @@
-# Reid Nelson | Portfolio
-A Selection of Data Science and Data Engineering Projects
+
+A Selection of Data Science, Data Engineering, and Other Python Projects
 
 # Projects
 
