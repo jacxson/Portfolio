@@ -8,4 +8,4 @@ A Selection of Data Science and Data Engineering Projects
 ### Lease Accounting: From Lease Schedules to LeaseCrunch (Coming Soon!) 
 
 # About
-![](/images/profile_image2.png)
+![](/images/profile_image 2.png)
