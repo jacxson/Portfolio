@@ -1,5 +1,4 @@
-## Jackson Reid Nelson
-## Data Scientist
+
 
 # Projects
 
