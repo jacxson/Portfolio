@@ -1,5 +1,5 @@
-
-A Selection of Data Science, Data Engineering, and Other Python Projects
+## Jackson Reid Nelson
+## Data Scientist
 
 # Projects
 
