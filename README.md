@@ -13,3 +13,4 @@ Formatting trial balance data from quickbooks exports to import into CCH Engagem
 ---
 # About
 ![](/images/profile_image_2_copy.png)
+## [Connect on LinkedIn] (https://www.linkedin.com/in/jacxson)
