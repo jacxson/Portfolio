@@ -1,7 +1,9 @@
 
 
 # Projects
-## [Public Spending and Standardized Test Scores]()
+## [House Price Prediction - Ames Iowa](https://github.com/jacxson/aimes_iowa_house_price_predicstion)
+## [Public Spending and Standardized Test Scores](https://github.com/jacxson/public_spending_and_test_scores)
+
 ## [Python for CPAs: ](https://jacxson.github.io/Python-for-CPAs/)
 A collection of jupyter notebooks that illustrate scalable extract transform load workflows for accountants. Building on the idea that coding is not just for software engineers, this project is meant to show that ETL scripts are not just for data engineers! Anyone who regularly receives data in a given (often messy) format and needs to perform some kinds of transformations on that data to make it useful could benefit from learning to clean data with python.
 ---
